@@ -1,0 +1,155 @@
+﻿*{
+margin:0px;
+padding:0px;
+}
+
+.ratingStar2
+{
+	white-space:nowrap;
+	margin:1px;
+	}
+.ratingStar2 .ratingItem2 {
+    font-size: 0pt;
+    width: 10px;
+    height: 10px;
+    margin: 0px;
+    padding: 1px;
+    display: block;
+    background-repeat: no-repeat;
+	cursor:pointer;
+}
+.ratingStar2 .Filled {
+    background-image: url('../images/rating/ratingStarFilled2.png');
+}
+.ratingStar2 .Empty {
+    background-image: url('../images/rating/ratingStarEmpty2.png');
+}
+.ratingStar2 .Saved {
+    background-image: url('../images/rating/ratingStarSaved2.png');
+}
+#sectionRating2
+{
+    margin-left: 2px;
+    margin-top: 2px;
+    float:left;
+}
+#ocenaKlientow1
+{
+    float:left;
+}
+.LabelOpisProduktu
+{
+    font-size: 13px;
+}
+
+
+/**              Slider               **/
+
+
+#slideshow 
+{
+    position: relative;
+}
+#slideshow #slideshowWindow 
+{
+    height: 334px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 682px;
+}
+#slideshow #slideshowWindow .slide 
+{
+    height: 334px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 682px;
+}
+#slideshow #slideshowWindow .slide .slideText 
+{
+    background:rgba(255,255,125,0.25);
+    background-repeat: repeat;
+    color: #606060;
+    font-family: Myriad Pro,Arial,Helvetica,sans-serif;
+    height: 130px;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 203px;
+    width: 100%;
+}
+#slideshow #slideshowWindow .slide .slideText a:link, #slideshow #slideshowWindow .slide .slideText a:visited 
+{
+color: #606060;
+text-decoration: none;
+}
+#slideshow #slideshowWindow .slide .slideText h2, #slideshow #slideshowWindow .slide .slideText p 
+{
+    color: #4a4848;
+    margin: 10px 0 0 10px;
+    padding: 0;
+}
+
+td {
+        border-radius: 10px;
+    }
+#NazwaLabelDiv {
+    text-align:left;
+    margin-left:20px;
+    margin-bottom:5px;
+    margin-top:5px;
+}
+
+/*http://www.csstablegenerator.com*/
+.produktyClass {
+	margin:0px;padding:0px;
+	width:100%;
+}
+.produktyClass table
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.produktyClass td:hover{
+	background-color:#ff9d58;
+    -webkit-transition: background 0.5s;        /* opó&#378;nienie zmiany koloru komórki */
+}
+.produktyClass td{
+	background-color:#f0f291;
+    -webkit-transition: background 1s;        /* opó&#378;nienie zmiany koloru komórki */
+	border:1px solid #f9f9f9;
+	border-width:0px 1px 1px 0px;
+	text-align:center;
+	padding:1px;
+	font-size:10px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}
+#opisTowaru{
+    float:left;
+    text-align:left;
+    margin-left: 10px;
+    margin-bottom:5px;
+}
+
+#buttonTowaru{
+    margin-top:15px;
+    margin-left: 20px;
+    float: left;
+    }
+
+.span{
+	font-family: Gill Sans, Verdana;
+	font-size: 11px;
+	line-height: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+    }

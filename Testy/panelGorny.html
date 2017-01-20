@@ -1,0 +1,93 @@
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-1.8.2.js" type="text/javascript"></script>
+<script>
+    $(document).ready(function() {
+        // jBar Script by Todd Motto
+        $('.downbar').delay(1000).fadeIn(400).addClass('up', 600);
+        $('.jquery-bar').hide().delay(2500).slideDown(400);
+        $('.jquery-arrow').click(function(){
+            $('.downbar').toggleClass('up', 400);          
+            $('.jquery-bar').slideToggle();
+        });     
+    });
+</script>
+
+<style>
+.jquery-bar {
+	background: #FFFFFF; /* #FAFAFA */
+	width:101.40%;
+	position: relative;	
+	margin:-13px 0px 0px -5px;
+	padding: 2px 0px 0px 0px;	
+	border-bottom:2px solid #CC0000;
+	box-shadow: 0px 4px 5px #AAAAAA;
+	font-size:14px;
+	font-family: 'Lato Regular', Arial;
+	text-transform:uppercase;
+}
+
+.jquery-bar .notification {
+	display:block;
+	width:auto;
+}
+
+.downbar {
+	cursor:pointer;	
+	top:0px;
+	right:70px;	
+	padding:0px 3px 0px 3px;
+	position:absolute;
+	background:#FFFFFF;
+	border-radius:0px 0px 5px 5px;	
+	border:2px solid #CC0000;
+	box-shadow: 0px 4px 5px #AAAAAA;	
+	border-top:none;
+}
+
+.downbar:hover{
+	background: url(../jix/bg.png);
+	cursor:pointer;
+}
+
+.down {
+	position:absolute;
+	top:3px;
+	right:85px;
+}
+
+.up {
+	top: -45px;
+	display: none;
+}
+
+.arrow {
+	cursor:pointer;
+}
+
+.font-style{
+	text-align: center;
+}
+
+.font-style a{
+	color:#CC0000;
+	font-size:15px;
+	text-decoration:underline;
+	text-transform:none;
+}
+
+
+</style>
+</head>
+<body>
+<!-- Start jQuery Notification Bar -->
+<div class="jquery-bar">
+    <span class="notification">
+        <p class="font-style">&laquo; Back to WebTuts Article - <a href="#">jQuery Notification Bar (Header Top Notification) - Example Demos Download</a></p> <p class="jquery-arrow down"><img src="img/up-arrow.png" alt="Click to Hide Notification" style="cursor:pointer;"></p>
+    </span>
+</div>
+<span class="downbar jquery-arrow"><img src="img/down-arrow.png" alt="Click to Show Notification" style="cursor:pointer;"></span>
+<!-- End jQuery Notification Bar -->
+
+</body>
+</html>

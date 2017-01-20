@@ -1,0 +1,68 @@
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\BabyShop.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\BabyShop.pdb
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\obj\Debug\BabyShop.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\obj\Debug\BabyShop.pdb
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\obj\Debug\BabyShop.csprojResolveAssemblyReference.cache
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\AjaxControlToolkit.pdb
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\MM\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\BabyShop.dll.config
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\BabyShop.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\BabyShop.pdb
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\obj\Debug\BabyShop.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\obj\Debug\BabyShop.pdb
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\obj\Debug\BabyShop.csprojResolveAssemblyReference.cache
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\AjaxControlToolkit.pdb
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Documents\Visual Studio 2012\Projects\BabyShop\BabyShop\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\BabyShop.dll.config
+D:\code\BabyShop\BabyShop\bin\BabyShop.dll
+D:\code\BabyShop\BabyShop\bin\BabyShop.pdb
+D:\code\BabyShop\BabyShop\bin\AjaxControlToolkit.pdb
+D:\code\BabyShop\BabyShop\bin\ar\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\cs\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\de\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\es\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\fr\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\he\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\hi\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\it\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\ja\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\ko\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\nl\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\pt\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\ru\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\code\BabyShop\BabyShop\obj\Debug\BabyShop.csprojResolveAssemblyReference.cache
+D:\code\BabyShop\BabyShop\obj\Debug\BabyShop.dll
+D:\code\BabyShop\BabyShop\obj\Debug\BabyShop.pdb
